@@ -1,0 +1,91 @@
+C:\Users\ammar\AppData\Local\Temporary Projects\islami\bin\Release\islami.exe
+C:\Users\ammar\AppData\Local\Temporary Projects\islami\bin\Release\islami.pdb
+C:\Users\ammar\AppData\Local\Temporary Projects\islami\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ammar\AppData\Local\Temporary Projects\islami\obj\Release\islami.Properties.Resources.resources
+C:\Users\ammar\AppData\Local\Temporary Projects\islami\obj\Release\islami.csproj.GenerateResource.Cache
+C:\Users\ammar\AppData\Local\Temporary Projects\islami\obj\Release\islami.exe
+C:\Users\ammar\AppData\Local\Temporary Projects\islami\obj\Release\islami.pdb
+C:\Users\ammar\AppData\Local\Temporary Projects\islami\obj\Release\Salati_و_azkari.Form1.resources
+C:\Users\ammar\Documents\Visual Studio 2008\Projects\islami\islami\bin\Release\islami.exe
+C:\Users\ammar\Documents\Visual Studio 2008\Projects\islami\islami\bin\Release\islami.pdb
+C:\Users\ammar\Documents\Visual Studio 2008\Projects\islami\islami\obj\Release\islami.Properties.Resources.resources
+C:\Users\ammar\Documents\Visual Studio 2008\Projects\islami\islami\obj\Release\islami.csproj.GenerateResource.Cache
+C:\Users\ammar\Documents\Visual Studio 2008\Projects\islami\islami\obj\Release\islami.exe
+C:\Users\ammar\Documents\Visual Studio 2008\Projects\islami\islami\obj\Release\islami.pdb
+C:\Users\ammar\Documents\Visual Studio 2008\Projects\islami\islami\obj\Release\islami.Resource1.resources
+C:\Users\ammar\Documents\Visual Studio 2008\Projects\islami\islami\obj\Release\islami.Form1.resources
+C:\Users\ammar\Documents\Visual Studio 2008\Projects\islami\islami\bin\Release\islami.exe.config
+C:\Users\ammar\Documents\Visual Studio 2008\Projects\islami\islami\bin\Release\Guna.UI2.dll
+C:\Users\ammar\Documents\Visual Studio 2008\Projects\islami\islami\obj\Release\islami.csprojResolveAssemblyReference.cache
+D:\ammar\My projects\islami\islami\bin\Release\islami.exe.config
+D:\ammar\My projects\islami\islami\obj\Release\islami.exe
+D:\ammar\My projects\islami\islami\obj\Release\islami.pdb
+D:\ammar\My projects\islami\islami\bin\Release\islami.exe
+D:\ammar\My projects\islami\islami\bin\Release\islami.pdb
+D:\ammar\My projects\islami\islami\obj\Release\islami.Form1.resources
+D:\ammar\My projects\islami\islami\obj\Release\islami.Properties.Resources.resources
+D:\ammar\My projects\islami\islami\obj\Release\islami.Resource1.resources
+D:\ammar\My projects\islami\islami\obj\Release\islami.csproj.GenerateResource.Cache
+D:\ammar\My projects\islami\islami\bin\Release\Newtonsoft.Json.dll
+D:\ammar\My projects\islami\islami\bin\Release\Newtonsoft.Json.xml
+D:\ammar\My projects\islami\islami\bin\Release\PrayTimes.dll
+D:\ammar\My projects\islami\islami\bin\Release\Microsoft.QualityTools.Testing.Fakes.dll
+D:\ammar\My projects\islami\islami\obj\Release\islami.csprojFakesResolveAssemblyReference.cache
+H:\ammar\My projects\islami\islami\obj\Release\Interop.AcroPDFLib.dll
+H:\ammar\My projects\islami\islami\obj\Release\AxInterop.AcroPDFLib.dll
+H:\ammar\My projects\islami\islami\obj\Release\islami.csproj.ResolveComReference.cache
+H:\ammar\My projects\islami\islami\obj\Release\islami.Form1.resources
+H:\ammar\My projects\islami\islami\obj\Release\islami.Form2.resources
+H:\ammar\My projects\islami\islami\obj\Release\islami.Properties.Resources.resources
+H:\ammar\My projects\islami\islami\obj\Release\islami.Resource1.resources
+H:\ammar\My projects\islami\islami\obj\Release\islami.Resource2.resources
+H:\ammar\My projects\islami\islami\obj\Release\islami.Resources.Resource1.resources
+H:\ammar\My projects\islami\islami\obj\Release\islami.csproj.GenerateResource.Cache
+H:\ammar\My projects\islami\islami\obj\Release\islami.exe.licenses
+H:\ammar\My projects\islami\islami\bin\Release\islami.exe.config
+H:\ammar\My projects\islami\islami\bin\Release\islami.exe
+H:\ammar\My projects\islami\islami\bin\Release\islami.pdb
+H:\ammar\My projects\islami\islami\bin\Release\PDFNet\x64\PDFNet.dll
+H:\ammar\My projects\islami\islami\bin\Release\PDFNet\x86\PDFNet.dll
+H:\ammar\My projects\islami\islami\bin\Release\Aspose.Pdf.dll
+H:\ammar\My projects\islami\islami\bin\Release\DevExpress.Data.Desktop.v23.2.dll
+H:\ammar\My projects\islami\islami\bin\Release\DevExpress.Data.v23.2.dll
+H:\ammar\My projects\islami\islami\bin\Release\DevExpress.Drawing.v23.2.dll
+H:\ammar\My projects\islami\islami\bin\Release\DevExpress.Pdf.v23.2.Core.dll
+H:\ammar\My projects\islami\islami\bin\Release\DevExpress.Pdf.v23.2.Drawing.dll
+H:\ammar\My projects\islami\islami\bin\Release\DevExpress.Printing.v23.2.Core.dll
+H:\ammar\My projects\islami\islami\bin\Release\DevExpress.Utils.v23.2.dll
+H:\ammar\My projects\islami\islami\bin\Release\DevExpress.XtraBars.v23.2.dll
+H:\ammar\My projects\islami\islami\bin\Release\DevExpress.XtraEditors.v23.2.dll
+H:\ammar\My projects\islami\islami\bin\Release\DevExpress.XtraLayout.v23.2.dll
+H:\ammar\My projects\islami\islami\bin\Release\DevExpress.XtraPdfViewer.v23.2.dll
+H:\ammar\My projects\islami\islami\bin\Release\DevExpress.XtraPrinting.v23.2.dll
+H:\ammar\My projects\islami\islami\bin\Release\DevExpress.XtraTreeList.v23.2.dll
+H:\ammar\My projects\islami\islami\bin\Release\DevExpress.XtraVerticalGrid.v23.2.dll
+H:\ammar\My projects\islami\islami\bin\Release\Newtonsoft.Json.dll
+H:\ammar\My projects\islami\islami\bin\Release\PDFNetLoader.dll
+H:\ammar\My projects\islami\islami\bin\Release\DevExpress.Sparkline.v23.2.Core.dll
+H:\ammar\My projects\islami\islami\bin\Release\DevExpress.RichEdit.v23.2.Core.dll
+H:\ammar\My projects\islami\islami\bin\Release\DevExpress.Office.v23.2.Core.dll
+H:\ammar\My projects\islami\islami\bin\Release\DevExpress.Data.Desktop.v23.2.xml
+H:\ammar\My projects\islami\islami\bin\Release\DevExpress.Data.v23.2.xml
+H:\ammar\My projects\islami\islami\bin\Release\DevExpress.Drawing.v23.2.xml
+H:\ammar\My projects\islami\islami\bin\Release\DevExpress.Pdf.v23.2.Core.xml
+H:\ammar\My projects\islami\islami\bin\Release\DevExpress.Pdf.v23.2.Drawing.xml
+H:\ammar\My projects\islami\islami\bin\Release\DevExpress.Printing.v23.2.Core.xml
+H:\ammar\My projects\islami\islami\bin\Release\DevExpress.Utils.v23.2.xml
+H:\ammar\My projects\islami\islami\bin\Release\DevExpress.XtraBars.v23.2.xml
+H:\ammar\My projects\islami\islami\bin\Release\DevExpress.XtraEditors.v23.2.xml
+H:\ammar\My projects\islami\islami\bin\Release\DevExpress.XtraLayout.v23.2.xml
+H:\ammar\My projects\islami\islami\bin\Release\DevExpress.XtraPdfViewer.v23.2.xml
+H:\ammar\My projects\islami\islami\bin\Release\DevExpress.XtraPrinting.v23.2.xml
+H:\ammar\My projects\islami\islami\bin\Release\DevExpress.XtraTreeList.v23.2.xml
+H:\ammar\My projects\islami\islami\bin\Release\DevExpress.XtraVerticalGrid.v23.2.xml
+H:\ammar\My projects\islami\islami\bin\Release\Newtonsoft.Json.xml
+H:\ammar\My projects\islami\islami\bin\Release\DevExpress.Sparkline.v23.2.Core.xml
+H:\ammar\My projects\islami\islami\bin\Release\DevExpress.RichEdit.v23.2.Core.xml
+H:\ammar\My projects\islami\islami\bin\Release\DevExpress.Office.v23.2.Core.xml
+H:\ammar\My projects\islami\islami\bin\Release\Interop.AcroPDFLib.dll
+H:\ammar\My projects\islami\islami\bin\Release\AxInterop.AcroPDFLib.dll
+H:\ammar\My projects\islami\islami\obj\Release\islami.exe
+H:\ammar\My projects\islami\islami\obj\Release\islami.pdb

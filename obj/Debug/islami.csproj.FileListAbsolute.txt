@@ -1,0 +1,18 @@
+C:\Users\ammar\AppData\Local\Temporary Projects\islami\bin\Debug\islami.exe
+C:\Users\ammar\AppData\Local\Temporary Projects\islami\bin\Debug\islami.pdb
+C:\Users\ammar\AppData\Local\Temporary Projects\islami\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ammar\AppData\Local\Temporary Projects\islami\obj\Debug\Salati_و_azkari.Form1.resources
+C:\Users\ammar\AppData\Local\Temporary Projects\islami\obj\Debug\islami.Properties.Resources.resources
+C:\Users\ammar\AppData\Local\Temporary Projects\islami\obj\Debug\islami.csproj.GenerateResource.Cache
+C:\Users\ammar\AppData\Local\Temporary Projects\islami\obj\Debug\islami.exe
+C:\Users\ammar\AppData\Local\Temporary Projects\islami\obj\Debug\islami.pdb
+C:\Users\ammar\Documents\Visual Studio 2008\Projects\islami\islami\obj\Debug\islami.exe
+C:\Users\ammar\Documents\Visual Studio 2008\Projects\islami\islami\obj\Debug\islami.pdb
+C:\Users\ammar\Documents\Visual Studio 2008\Projects\islami\islami\bin\Debug\islami.exe
+C:\Users\ammar\Documents\Visual Studio 2008\Projects\islami\islami\bin\Debug\islami.pdb
+C:\Users\ammar\Documents\Visual Studio 2008\Projects\islami\islami\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ammar\Documents\Visual Studio 2008\Projects\islami\islami\obj\Debug\islami.Properties.Resources.resources
+C:\Users\ammar\Documents\Visual Studio 2008\Projects\islami\islami\obj\Debug\islami.csproj.GenerateResource.Cache
+C:\Users\ammar\Documents\Visual Studio 2008\Projects\islami\islami\obj\Debug\islami.Resource1.resources
+C:\Users\ammar\Documents\Visual Studio 2008\Projects\islami\islami\obj\Debug\islami.Form1.resources
+C:\Users\ammar\Documents\Visual Studio 2008\Projects\islami\islami\bin\Debug\islami.exe.config
